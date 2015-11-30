@@ -5,6 +5,7 @@
 #include "dynamical.h"
 #include <vector>
 #include <sstream>
+#include <fstream>
 #include <iostream>
 #include <opencv2/opencv.hpp>
 #include <opencv2/ml/ml.hpp>
@@ -33,8 +34,8 @@ private:
 	int k;
 	vector<fvec> points;
 	vector<fvec> velocities;
-
 public:
+	
 	fvec Test(Dynamical *dynamical, vector< vector<fvec> > trajectories, ivec labels);
 	void Train(vector< vector<fvec> > trajectories, ivec labels);
 	fvec Train(Dynamical *dynamical, vector<fvec> samples, vector< ipair > sequences, ivec labels);
