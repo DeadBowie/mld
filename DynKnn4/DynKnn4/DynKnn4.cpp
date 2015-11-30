@@ -5,7 +5,6 @@
 #include <fstream>
 #include <string.h>
 #include <stdio.h>
-#include "stdafx.h"
 #include "DynKnn.h"
 #include "mymath.h"
 #include "DynKnn4.h"

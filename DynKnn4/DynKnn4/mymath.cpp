@@ -1,4 +1,3 @@
-#include "stdafx.h"
 #include "mymath.h"
 #include "DynKnn4.h"
 typedef std::vector<float> fvec;

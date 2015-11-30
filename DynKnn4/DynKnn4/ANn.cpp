@@ -1,4 +1,3 @@
-#include "stdafx.h"
 #include <cstdlib>						// C standard lib defs
 #include "ANN\ANNx.h"					// all ANN includes
 #include "ANN\Annperf.h"		// ANN performance 

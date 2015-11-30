@@ -1,4 +1,3 @@
-#include "stdafx.h"
 #include "dynamical.h"
 //#include "basicOpenCV.h"
 

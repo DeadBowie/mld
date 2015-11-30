@@ -21,22 +21,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="ReadMe.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="stdafx.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="targetver.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="DynKnn4.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="DynKnn.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="BasicMath.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="mymath.h">
@@ -83,9 +71,6 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="stdafx.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="DynKnn4.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>

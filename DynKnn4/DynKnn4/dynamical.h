@@ -1,8 +1,6 @@
 
 #ifndef _DYNAMICAL_H_
 #define _DYNAMICAL_H_
-#include "stdafx.h"
-//#include "DynKnn4.h"
 #include <vector>
 #include <opencv2/highgui/highgui.hpp>
 

@@ -2,9 +2,7 @@
 #include "ANN\ANn.h"
 #include "ANN\ANNx.h"					// all ANN includes
 #include "ANN\Annperf.h"	
-#include "stdafx.h"
 #include "DynKnn4.h"
-#include "BasicMath.h"
 #include "dynamical.h"
 #include "mymath.h"
 #include "DynKnn.h"
